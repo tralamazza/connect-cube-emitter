@@ -1,0 +1,16 @@
+{
+  "name": "connect-cube-emitter",
+  "version": "0.0.1",
+  "description": "Emit requests as Cube events",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "dependencies": {
+    "cube": "*",
+    "connect": "*"
+  },
+  "repository": "https://github.com/tralamazza/connect-cube-emitter",
+  "author": "Daniel Tralamazza <tralamazza@gmail.com>",
+  "license": "MIT"
+}
